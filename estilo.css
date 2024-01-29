@@ -2,7 +2,7 @@
 
 
 body {
-    margin: 5%;
+    margin: 10%;
     background-color:  #852fae;
     font-family: 'Times New Roman', Times, serif
 }
@@ -24,7 +24,7 @@ section {
     margin-left: auto;
     background-color: white;
     border-radius: 10px;
-    width: 390px;
+    width: 360px;
     height: 640px;
     margin: auto;
     text-align: center;
