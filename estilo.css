@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
+
 body {
     margin: 5%;
-    margin-left: 0%;
     background-color:  #852fae;
     font-family: 'Times New Roman', Times, serif
 }
@@ -21,6 +21,7 @@ div > p > img#foto2 {
     text-align: center;
 }
 section {
+    margin-left: auto;
     background-color: white;
     border-radius: 10px;
     width: 390px;
