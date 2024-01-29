@@ -3,8 +3,11 @@
 
 body {
     margin: 10%;
+    padding: 0px;
     background-color:  #852fae;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-position: center;
 }
 img#foto {
     margin: 20px;
